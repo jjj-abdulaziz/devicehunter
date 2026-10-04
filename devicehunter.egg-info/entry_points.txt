@@ -1,0 +1,2 @@
+[console_scripts]
+devicehunter = devicehunter.cli:main
