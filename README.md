@@ -1,7 +1,7 @@
 # DeviceHunter
 
-Scans your surroundings for devices — network hosts and nearby Bluetooth/BLE
-devices — fingerprints running services, and checks them against known CVEs
+Scans your surroundings for devices, network hosts and nearby Bluetooth/BLE
+devices, fingerprints running services, and checks them against known CVEs
 via the NVD API.
 
 **Only run this against networks and devices you own or have explicit
